@@ -20,6 +20,26 @@ $ ./about --me
 
 ### 📐 Tech Toolbox
 
+
+ 
+---
+
+### 🛠️ Projects Section (Collapsible Table)
+
+```markdown
+<details>
+  <summary>📁 My Latest Work</summary>
+
+| 🚀 Project | 🧩 Tech Stack | 🔗 Links |
+|-----------|---------------|----------|
+| **Zero Downtime Deployment Tool** | Bash, GitHub Actions, NGINX | [Repo](#) |
+| **IoT Script Compiler** | Python (PLY), DSL | [Repo](#) |
+| **Bus Management System (GA-based)** | Python, OpenRouteService | [Repo](#) |
+| **Timetable Scheduler (AI-based)** | Django, PostgreSQL, MongoDB | [Repo](#) |
+
+</details>
+
+
 ```yaml
 languages:
   - Kotlin (Jetpack Compose)
