@@ -8,6 +8,14 @@
 ---
 
 ### 🧠 whoami
+```bash
+$ cd /home/pawan
+$ ./about --me
+
+> B.Tech CSE '26
+> DevOps Explorer | Cloud Learner ☁️ | Full-Stack Dev 🚀
+> I build: ⚙️ Tools • 🌐 Web Apps • 🤖 AI Systems • 📡 IoT Scripts
+
 
 
 ### 📐 Tech Toolbox
