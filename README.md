@@ -24,7 +24,7 @@ $ ./about --me
  
 ---
 
-### 🛠️ Projects Section (Collapsible Table)
+### 🛠️ Projects Section 
 
 ```markdown
 <details>
