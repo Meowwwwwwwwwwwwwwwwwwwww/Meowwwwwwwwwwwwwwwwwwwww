@@ -10,9 +10,25 @@
 ### 🧠 whoami
 
 ```bash
-$ cd /home/pawan
-$ ./about --me
 
 > B.Tech CSE '26
 > DevOps Explorer | Cloud Learner ☁️ | Full-Stack Dev 🚀
 > I build: ⚙️ Tools • 🌐 Web Apps • 🤖 AI Systems • 📡 IoT Scripts
+
+
+---
+
+### 🛠️ Projects Section (Collapsible Table)
+
+```markdown
+<details>
+  <summary>📁 My Latest Work</summary>
+
+| 🚀 Project | 🧩 Tech Stack | 🔗 Links |
+|-----------|---------------|----------|
+| **Zero Downtime Deployment Tool** | Bash, GitHub Actions, NGINX | [Repo](#) |
+| **IoT Script Compiler** | Python (PLY), DSL | [Repo](#) |
+| **Bus Management System (GA-based)** | Python, OpenRouteService | [Repo](#) |
+| **Timetable Scheduler (AI-based)** | Django, PostgreSQL, MongoDB | [Repo](#) |
+
+</details>
