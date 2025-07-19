@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!-- Header Typing SVG -->
 <p align="center">
@@ -9,26 +9,24 @@
 
 ### 🧠 whoami
 
-```bash
 
-> B.Tech CSE '26
-> DevOps Explorer | Cloud Learner ☁️ | Full-Stack Dev 🚀
-> I build: ⚙️ Tools • 🌐 Web Apps • 🤖 AI Systems • 📡 IoT Scripts
+### 📐 Tech Toolbox
+
+```yaml
+languages:
+  - Kotlin (Jetpack Compose)
+  - Python 🐍
+  - JavaScript / Node.js ⚙️
+  - Bash 🐚
+  - HTML, CSS, Tailwind ⚡
+
+tools:
+  - Docker 🐳
+  - Kubernetes ☸️
+  - Django | FastAPI 🦾
+  - PostgreSQL | MongoDB
+  - GitHub Actions 🧪
+  - AWS | Terraform | Nginx
 
 
----
 
-### 🛠️ Projects Section (Collapsible Table)
-
-```markdown
-<details>
-  <summary>📁 My Latest Work</summary>
-
-| 🚀 Project | 🧩 Tech Stack | 🔗 Links |
-|-----------|---------------|----------|
-| **Zero Downtime Deployment Tool** | Bash, GitHub Actions, NGINX | [Repo](#) |
-| **IoT Script Compiler** | Python (PLY), DSL | [Repo](#) |
-| **Bus Management System (GA-based)** | Python, OpenRouteService | [Repo](#) |
-| **Timetable Scheduler (AI-based)** | Django, PostgreSQL, MongoDB | [Repo](#) |
-
-</details>
